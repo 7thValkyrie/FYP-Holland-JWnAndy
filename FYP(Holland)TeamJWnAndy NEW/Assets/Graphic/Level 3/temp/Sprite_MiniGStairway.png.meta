@@ -1,0 +1,135 @@
+fileFormatVersion: 2
+guid: 39a4557ac987b1b4a9cd7901c949d59e
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Sprite_MiniGStairway_0
+    21300002: Sprite_MiniGStairway_1
+    21300004: Sprite_MiniGStairway_2
+    21300006: Sprite_MiniGStairway_3
+    21300008: Sprite_MiniGStairway_4
+    21300010: Sprite_MiniGStairway_5
+    21300012: Sprite_MiniGStairway_6
+    21300014: Sprite_MiniGStairway_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 50
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Sprite_MiniGStairway_0
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 0
+        width: 592
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprite_MiniGStairway_1
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 0
+        width: 616
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprite_MiniGStairway_2
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 0
+        width: 641
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprite_MiniGStairway_3
+      rect:
+        serializedVersion: 2
+        x: 2338
+        y: 0
+        width: 666
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprite_MiniGStairway_4
+      rect:
+        serializedVersion: 2
+        x: 3142
+        y: 0
+        width: 592
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprite_MiniGStairway_5
+      rect:
+        serializedVersion: 2
+        x: 3894
+        y: 0
+        width: 616
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprite_MiniGStairway_6
+      rect:
+        serializedVersion: 2
+        x: 4644
+        y: 0
+        width: 641
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprite_MiniGStairway_7
+      rect:
+        serializedVersion: 2
+        x: 5394
+        y: 0
+        width: 666
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

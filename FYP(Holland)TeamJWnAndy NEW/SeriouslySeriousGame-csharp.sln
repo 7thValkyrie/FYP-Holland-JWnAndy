@@ -1,0 +1,127 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{BE034F3A-7F41-ADA3-D0C6-3ABDAE818893}") = "SeriouslySeriousGame", "Assembly-CSharp-vs.csproj", "{4DDED049-FBFD-1CA7-F977-8AC91296B48D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DDED049-FBFD-1CA7-F977-8AC91296B48D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DDED049-FBFD-1CA7-F977-8AC91296B48D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DDED049-FBFD-1CA7-F977-8AC91296B48D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DDED049-FBFD-1CA7-F977-8AC91296B48D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																GlobalSection(MonoDevelopProperties) = preSolution
+=======
+<<<<<<< HEAD
+																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																											GlobalSection(MonoDevelopProperties) = preSolution
+=======
+<<<<<<< HEAD
+																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																		GlobalSection(MonoDevelopProperties) = preSolution
+>>>>>>> cd084bfbbff8a64b199622a933d1e360fd9533fc
+=======
+<<<<<<< HEAD
+																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																										GlobalSection(MonoDevelopProperties) = preSolution
+>>>>>>> 09b0a763014bbab980f9f1d091d021a16657ad2b
+=======
+<<<<<<< HEAD
+																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																											GlobalSection(MonoDevelopProperties) = preSolution
+>>>>>>> 7fb333ed82a3bd8f0b8c045fd9bc0003eeefe2e9
+=======
+																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																									GlobalSection(MonoDevelopProperties) = preSolution
+>>>>>>> 1a92e5ddb425ca2be95bb9e8aae958a4c6387d3f
+=======
+<<<<<<< HEAD
+																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																									GlobalSection(MonoDevelopProperties) = preSolution
+>>>>>>> e812c3217edcbb77c98ee18a7b69a59e0d764211
+=======
+<<<<<<< HEAD
+																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																							GlobalSection(MonoDevelopProperties) = preSolution
+>>>>>>> 34a4dcb3b1691aa3e75dd748ff649b0f688e0369
+=======
+<<<<<<< HEAD
+																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																						GlobalSection(MonoDevelopProperties) = preSolution
+>>>>>>> dc0d6e65cf93cddcec66e12f64ff951fe6b450e7
+=======
+<<<<<<< HEAD
+																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																		GlobalSection(MonoDevelopProperties) = preSolution
+>>>>>>> 380d313f1dc45a0687f71472ecf8ac6f66eb0be9
+=======
+<<<<<<< HEAD
+																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																														GlobalSection(MonoDevelopProperties) = preSolution
+=======
+																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																			GlobalSection(MonoDevelopProperties) = preSolution
+>>>>>>> cb1601480880eb6b15c5bca6a70559668250503e
+>>>>>>> ed8c7e1147db1907b23741d9ba313db69bf61699
+=======
+<<<<<<< HEAD
+																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																															GlobalSection(MonoDevelopProperties) = preSolution
+>>>>>>> a2a4268de477e431820de29b4c3de0d2a0b5e169
+=======
+<<<<<<< HEAD
+																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																													GlobalSection(MonoDevelopProperties) = preSolution
+>>>>>>> 35352518290a7aa08b366feca1120e634c7405d1
+=======
+<<<<<<< HEAD
+																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																													GlobalSection(MonoDevelopProperties) = preSolution
+>>>>>>> a97a5df93d31662df358bf6ce586ef877e83e60f
+=======
+<<<<<<< HEAD
+																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																											GlobalSection(MonoDevelopProperties) = preSolution
+>>>>>>> 6cb93b91b1f7adc3cc7b213947078baaab6455ad
+=======
+<<<<<<< HEAD
+																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																											GlobalSection(MonoDevelopProperties) = preSolution
+>>>>>>> dbc15b58afadde7f1ef5a886c4f1bc32ea873a45
+=======
+																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																														GlobalSection(MonoDevelopProperties) = preSolution
+>>>>>>> 1a3809f88caddd9dff6b45617c1a38d4129add14
+>>>>>>> 3b5b4c70ed5e9bf7c0edd3907ed6dc6d956e13c1
+=======
+																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																										GlobalSection(MonoDevelopProperties) = preSolution
+>>>>>>> ff5b1643d837ef1000f1e76fd22a811daf9e7f9f
+=======
+																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																	GlobalSection(MonoDevelopProperties) = preSolution
+=======
+																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																				GlobalSection(MonoDevelopProperties) = preSolution
+>>>>>>> 54501f25daf7c0d25ae3e121d4b1608098b388eb
+=======
+																																																																																																																																																																																																																																																																																																																																																																																																																																																																																														GlobalSection(MonoDevelopProperties) = preSolution
+>>>>>>> 301b2c6e224862d56469b13278a18ccea70ab0cd
+=======
+<<<<<<< HEAD
+																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																GlobalSection(MonoDevelopProperties) = preSolution
+>>>>>>> 265d40ae02d5e9a4d86768e9aeb704b2c2cd29d0
+=======
+<<<<<<< HEAD
+																																																																																																																																																																																																																																																																																																																																																																																																																																																																																									GlobalSection(MonoDevelopProperties) = preSolution
+>>>>>>> f763ce07373ce17f8ce5d6d6b96cf61de4e7cd85
+=======
+																																																																																																																																																																																																																																																																																																																																																																																																																																																																																														GlobalSection(MonoDevelopProperties) = preSolution
+>>>>>>> 3ceea9cfc99b2c033c3ae31931a6a0f53d87dd8b
+>>>>>>> d3f93cd5400931dfb3b39792e336b4ca0fc03bfe
+		StartupItem = Assembly-CSharp.csproj
+		Policies = $0
+		$0.TextStylePolicy = $1
+		$1.inheritsSet = null
+		$1.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $2
+		$2.inheritsSet = Mono
+		$2.inheritsScope = text/x-csharp
+		$2.scope = text/x-csharp
+		$0.TextStylePolicy = $3
+		$3.FileWidth = 120
+		$3.TabWidth = 4
+		$3.EolMarker = Unix
+		$3.inheritsSet = Mono
+		$3.inheritsScope = text/plain
+		$3.scope = text/plain
+	EndGlobalSection
+
+EndGlobal

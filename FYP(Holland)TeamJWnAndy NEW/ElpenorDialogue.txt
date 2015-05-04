@@ -1,0 +1,10 @@
+Elpenor! What are you doing here?
+Odysseus, on the day you left Circe’s island, I was sleeping on the roof to cool of as I was drunk. I was awakened by the sound of everybody leaving and when I rushed to join them, I tripped and fell off the roof, broke my neck and died. <qns>
+Fool! Watch where you step next time! <choice 1>
+Now that you are dead, help me take over the underworld! <choice 2>
+Poor Elepenor, is there anything I can do for you? <choice 3>
+Odysseus how dare you mock the dead! Are you not afraid of being cursed?  <choice 1 ans>
+Stop joking around sir! <choice 2 ans>
+When you return to Circe’s Island, burn my body with whatever armor that I have, build a barrow for me on the sea shore so that people in days to come will know what an unlucky fellow I was, and plant over my grave the oar I used to row with my crewmates when I was alive. <choice 3 ans>
+My poor fellow, I will do all that you have asked for me.
+Thank you sir.

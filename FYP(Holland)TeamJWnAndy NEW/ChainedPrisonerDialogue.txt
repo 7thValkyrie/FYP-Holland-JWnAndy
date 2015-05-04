@@ -1,0 +1,13 @@
+Human! Please help me! <qns>
+Hmph! Foolish pheasant how dare you talk to the great Odysseus! <choice 1>
+Only if you can catch me! <choice 2>
+I will do what I can, but I expect to be rewarded for my troubles. <choice 3>
+Sir! I apologise! But please! Help me! <choice 1 ans>
+Please! Do not leave! I will do anything! So please! <choice 2 ans>
+Oh thank you so much! I want you to help me get some water from the Fountain of Lethe just past the Hall of Flames. It is said that after drinking the water, one can withstand any form of pain! Being chained here has brought me so much pain for so long, I cannot take it anymore! Please hurry! <choice 3 ans>
+I will see what I can do. In the meantime, please bear with the pain for just a bit longer.
+I brought the water. Here, drink up.
+Wow! The rumors were true after all! I really do not feel pain anymore!
+You sent me to fetch that water, through the Hall of Flames based on nothing but a measly rumor?
+Calm down! It still worked did it not? Now, as I promised, here is my most prized possession. There used to be a jewel embedded on it, but it seemed to have come off. Maybe if you search around the underworld you might just find it!
+Sigh. I will keep my eyes peeled.

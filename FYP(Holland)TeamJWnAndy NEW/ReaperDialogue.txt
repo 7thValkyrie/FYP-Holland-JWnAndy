@@ -1,0 +1,11 @@
+Halt foolish mortal! For what reasons do you venture into this forbidden realm of the dead?<QNS>
+<BRANCH>
+
+Mind your own business reaper!<CHOICE>
+To visit you of course! Did I mention you look absolutely stunning today?<CHOICE>
+I am here to seek out the Prophet Tiresias for instructions on how to return to my homeland, Ithaca.<CHOICE>
+
+Fool! I’ll give you one last chance to tell me the truth. If not your life will be forfeited here and now!1<OPTION>
+Flattery will get you nowhere mortal. Speak now, or forever hold your tongue!2<OPTION>
+If you wish to pass, you must first pay the toll of one gold nugget. Only then can you pass by me and proceed on your journey.3<OPTION>
+

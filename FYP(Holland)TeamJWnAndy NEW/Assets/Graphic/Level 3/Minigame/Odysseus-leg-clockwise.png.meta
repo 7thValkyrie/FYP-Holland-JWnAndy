@@ -1,0 +1,154 @@
+fileFormatVersion: 2
+guid: 7c3730ad292492e4eaf2378d67c47176
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Odysseus-leg-clockwise_0
+    21300002: Odysseus-leg-clockwise_1
+    21300004: Odysseus-leg-clockwise_2
+    21300006: Odysseus-leg-clockwise_3
+    21300008: Odysseus-leg-clockwise_4
+    21300010: Odysseus-leg-clockwise_5
+    21300012: Odysseus-leg-clockwise_6
+    21300014: Odysseus-leg-clockwise_7
+    21300016: Odysseus-leg-clockwise_8
+    21300018: Odysseus-leg-clockwise_9
+    21300020: Odysseus-leg-clockwise_10
+    21300022: Odysseus-leg-clockwise_11
+    21300024: Odysseus-leg-clockwise_12
+    21300026: Odysseus-leg-clockwise_13
+    21300028: Odysseus-leg-clockwise_14
+    21300030: Odysseus-leg-clockwise_15
+    21300032: Odysseus-leg-clockwise_16
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: 
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 45
+        width: 100
+        height: 125
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 45
+        width: 100
+        height: 125
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 45
+        width: 100
+        height: 125
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 45
+        width: 100
+        height: 125
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 44
+        width: 100
+        height: 125
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 45
+        width: 100
+        height: 125
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 45
+        width: 100
+        height: 125
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 45
+        width: 100
+        height: 125
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 45
+        width: 100
+        height: 125
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

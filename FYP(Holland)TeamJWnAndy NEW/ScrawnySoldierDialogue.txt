@@ -1,0 +1,13 @@
+Mortal, I would like to enlist your help. <qns>
+I will do anything for a soldier who valiantly put his life on the line for his country. <choice 1>
+I am not a mercenary for hire, now farewell! <choice 2>
+Do it yourself, you need the workout. <choice 3>
+Thank you kind one. I need you to help me find my remains that are hidden throughout the underworld. They were taken away from me by a menacing three headed beast as I was too weak to fend it off. <choice 1 ans>
+Please listen to me for a minute! <choice 2 ans>
+No matter how much I work out, I cannot grow any muscles… <choice 3 ans>
+I will do as you ask.
+Thank you. I would have done it myself but as I am too scrawny, he will treat me as nothing but a chew toy.
+I have done as you asked.
+Thank you for your help. I am eternally grateful to you.
+
+

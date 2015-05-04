@@ -1,0 +1,12 @@
+Oh poor ghost, why are you shaking?
+When I was still alive, I got tricked by a cunning merchant to buy this magical bowl and right after that, it started raining so I hid under the tree with it and soon enough I got struck by lightning and died. I want to get rid of this cursed bowl by throwing it down the bridge, but I am afraid that I will get even more bad luck if I toss the bowl off the cliff.<QNS>
+<BRANCH>
+
+Man up! It is just a normal bowl!<CHOICE>
+Give it to me. I will take on the curse for myself.<CHOICE>
+Gullible fool!<CHOICE>
+
+It is not! The merchant told me it was a magical bowl!1<OPTION>
+You would do that? For me? Thank you! Thank you so much! I can finally sleep again! Not that I need any…2<OPTION>
+Wha- How could you say that?3<OPTION>
+

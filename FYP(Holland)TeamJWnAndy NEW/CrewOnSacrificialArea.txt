@@ -1,0 +1,9 @@
+Men, prepare the sacrificial ritual!
+Odysseus, the honey, milk, wine, water and white barley meal are all here. All that is left are the sheep sir! <qns> 
+They are probably at the boat, I will go retrieve them. <choice 1>
+Why did you not bring them here? Must I do everything myself?	<choice 2>
+Please do sir! In the meantime, we will prepare the ritual for you.	<choice 1 ans>
+I’m sorry Odysseus! Please spare my life!	<choice 2 ans>
+I have the sheep right here. Let us start the ritual now. 
+Now that is something I never want to experience again…
+For now, I will collect the blood and head off in search of Tiresias 

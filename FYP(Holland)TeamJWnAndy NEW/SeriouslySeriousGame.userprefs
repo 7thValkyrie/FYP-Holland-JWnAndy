@@ -1,0 +1,21 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Stage\PlayerMovement.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Object\ObjectInformation.cs" Line="27" Column="2" />
+      <File FileName="Assets\Scripts\Stage\PlayerMovement.cs" Line="50" Column="29" />
+      <File FileName="Assets\Scripts\Object\DialogueBox.cs" Line="2329" Column="8" />
+      <File FileName="Assets\Scripts\Stage\Inventory.cs" Line="921" Column="1" />
+      <File FileName="Assets\Scripts\Stage\StageProgression\Level_2\CliffLevelProgression2Part2.cs" Line="24" Column="88" />
+      <File FileName="Assets\Scripts\Audio\AudioManager.cs" Line="52" Column="42" />
+      <File FileName="Assets\Scripts\Object\SaveObject.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Audio\AudioManagement.cs" Line="15" Column="2" />
+      <File FileName="Assets\Scripts\MiniGame\ArmWrestle-minigame\ArmWrestle.cs" Line="73" Column="6" />
+      <File FileName="Assets\Scripts\MiniGame\TutorialTextScript1.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

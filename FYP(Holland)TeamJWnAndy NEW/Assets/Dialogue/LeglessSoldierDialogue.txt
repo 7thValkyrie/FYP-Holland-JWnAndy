@@ -1,0 +1,16 @@
+Mortal, why have you come here to this place that is teeming with the stench of death?<QNS>
+<BRANCH>
+
+Legless one! Kneel before me!<CHOICE>
+Mighty soldier, do you know where I might find the Prophet Tiresias?<CHOICE>
+What happened to your legs?<CHOICE>
+
+Insolent fool! If you make fun of me anymore than this, prepare to meet your end.1<OPTION>
+I do not know, but if you do me a favour, I will reward you with something good.2<OPTION>
+What happened to me is not important anymore.3<OPTION>
+
+I will gladly help if it is within my capabilities.
+Then, search for my remains in this barren land full of the dead, and return once you have found them. Only then will I give you your reward.
+Ah, my remains. Thank you for the help.
+I will open the exit back to the mortal world. However, other ghost may try to prevent you from escaping. Whether you make it out alive will be based on your abilities.
+You have my thanks.

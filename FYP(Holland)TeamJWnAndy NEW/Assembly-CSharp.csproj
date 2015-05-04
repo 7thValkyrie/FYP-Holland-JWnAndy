@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+	<Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+	<ProductVersion>10.0.20506</ProductVersion>
+	<SchemaVersion>2.0</SchemaVersion>
+	<ProjectGuid>{1F278101-F77F-1295-096F-0C039FE9A881}</ProjectGuid>
+	<OutputType>Library</OutputType>
+	<AppDesignerFolder>Properties</AppDesignerFolder>
+	<RootNamespace></RootNamespace>
+	<AssemblyName>Assembly-CSharp</AssemblyName>
+	<TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+	<FileAlignment>512</FileAlignment>
+	<BaseDirectory>Assets</BaseDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+	<DebugSymbols>true</DebugSymbols>
+	<DebugType>full</DebugType>
+	<Optimize>false</Optimize>
+	<OutputPath>Temp\bin\Debug\</OutputPath>
+	<DefineConstants>DEBUG;TRACE;UNITY_4_6_2;UNITY_4_6;UNITY_STANDALONE_WIN;ENABLE_MICROPHONE;ENABLE_TEXTUREID_MAP;ENABLE_UNITYEVENTS;ENABLE_NEW_HIERARCHY ;ENABLE_AUDIO_FMOD;UNITY_STANDALONE;ENABLE_TERRAIN;ENABLE_SUBSTANCE;ENABLE_GENERICS;INCLUDE_IL2CPP;INCLUDE_WP8SUPPORT;ENABLE_MOVIES;ENABLE_WWW;ENABLE_IMAGEEFFECTS;ENABLE_4_6_FEATURES;INCLUDE_WP_BLUE_SUPPORT;ENABLE_WEBCAM;INCLUDE_METROSUPPORT;RENDER_SOFTWARE_CURSOR;ENABLE_NETWORK;ENABLE_PHYSICS;UNITY5_SCRIPTING_IN_UNITY4;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_2D_PHYSICS;ENABLE_SHADOWS;ENABLE_AUDIO;ENABLE_NAVMESH_CARVING;ENABLE_DUCK_TYPING;ENABLE_SINGLE_INSTANCE_BUILD_SETTING;ENABLE_MONO;ENABLE_PROFILER;UNITY_EDITOR;UNITY_EDITOR_WIN</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+	<DebugType>pdbonly</DebugType>
+	<Optimize>true</Optimize>
+	<OutputPath>Temp\bin\Release\</OutputPath>
+	<DefineConstants>TRACE</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+	<Reference Include="System" />
+    <Reference Include="System.XML" />
+	<Reference Include="System.Core" />
+	<Reference Include="System.Xml.Linq" />
+	<Reference Include="UnityEngine">
+	  <HintPath>C:/Program Files (x86)/Unity462/Editor/Data/Managed/UnityEngine.dll</HintPath>
+	</Reference>
+	<Reference Include="UnityEditor">
+	  <HintPath>C:/Program Files (x86)/Unity462/Editor/Data/Managed/UnityEditor.dll</HintPath>
+	</Reference>
+  </ItemGroup>
+  <ItemGroup>
+     <Compile Include="Assets\Scripts\Audio\AudioManagement.cs" />
+     <Compile Include="Assets\Scripts\Audio\AudioManager.cs" />
+     <Compile Include="Assets\Scripts\CSVFile\CSVReader.cs" />
+     <Compile Include="Assets\Scripts\ClickOnElpenor.cs" />
+     <Compile Include="Assets\Scripts\ClickOnElpenor1.cs" />
+     <Compile Include="Assets\Scripts\ClickOnElpenor2.cs" />
+     <Compile Include="Assets\Scripts\ClickOnElpenor3.cs" />
+     <Compile Include="Assets\Scripts\LevelSelect\BackButton.cs" />
+     <Compile Include="Assets\Scripts\LevelSelect\DropDownMenu.cs" />
+     <Compile Include="Assets\Scripts\LevelSelect\GoldCoin.cs" />
+     <Compile Include="Assets\Scripts\LevelSelect\LevelSelect.cs" />
+     <Compile Include="Assets\Scripts\LevelSelect\LevelSelect_Level1.cs" />
+     <Compile Include="Assets\Scripts\LevelSelect\LevelSelect_Level2.cs" />
+     <Compile Include="Assets\Scripts\LevelSelect\LevelSelect_Level3.cs" />
+     <Compile Include="Assets\Scripts\LevelSelect\LevelSelect_Level4.cs" />
+     <Compile Include="Assets\Scripts\LevelSelect\LevelSelect_Level5.cs" />
+     <Compile Include="Assets\Scripts\LevelSelect\ShortInfo.cs" />
+     <Compile Include="Assets\Scripts\LevelSelect\Title.cs" />
+     <Compile Include="Assets\Scripts\LevelSelect\plankpicture.cs" />
+     <Compile Include="Assets\Scripts\LevelTransition.cs" />
+     <Compile Include="Assets\Scripts\Level_3_Scripts\Andy\AspectRatio.cs" />
+     <Compile Include="Assets\Scripts\Level_3_Scripts\Andy\ButtonScript.cs" />
+     <Compile Include="Assets\Scripts\Level_3_Scripts\Andy\ChoiceScript.cs" />
+     <Compile Include="Assets\Scripts\Level_3_Scripts\Andy\DialogueContent.cs" />
+     <Compile Include="Assets\Scripts\Level_3_Scripts\Andy\DialogueScript.cs" />
+     <Compile Include="Assets\Scripts\Level_3_Scripts\Andy\DoorScript.cs" />
+     <Compile Include="Assets\Scripts\Level_3_Scripts\Andy\FadingScript.cs" />
+     <Compile Include="Assets\Scripts\Level_3_Scripts\Andy\FileReader.cs" />
+     <Compile Include="Assets\Scripts\Level_3_Scripts\Andy\GearScript.cs" />
+     <Compile Include="Assets\Scripts\Level_3_Scripts\Andy\Global.cs" />
+     <Compile Include="Assets\Scripts\Level_3_Scripts\Andy\Invent.cs" />
+     <Compile Include="Assets\Scripts\Level_3_Scripts\Andy\Item.cs" />
+     <Compile Include="Assets\Scripts\Level_3_Scripts\Andy\ItemProcess.cs" />
+     <Compile Include="Assets\Scripts\Level_3_Scripts\Andy\LevelTransitionScript.cs" />
+     <Compile Include="Assets\Scripts\Level_3_Scripts\Andy\MiniGame_Door.cs" />
+     <Compile Include="Assets\Scripts\Level_3_Scripts\Andy\MouseScript.cs" />
+     <Compile Include="Assets\Scripts\Level_3_Scripts\Andy\MovementScript.cs" />
+     <Compile Include="Assets\Scripts\Level_3_Scripts\Andy\NPCScript.cs" />
+     <Compile Include="Assets\Scripts\Level_3_Scripts\Andy\PauseScript.cs" />
+     <Compile Include="Assets\Scripts\Level_3_Scripts\Andy\PlayerCollisionScript.cs" />
+     <Compile Include="Assets\Scripts\Level_3_Scripts\Andy\PlayerScript.cs" />
+     <Compile Include="Assets\Scripts\Level_3_Scripts\Andy\SkullMouse.cs" />
+     <Compile Include="Assets\Scripts\Level_3_Scripts\Andy\zz.cs" />
+     <Compile Include="Assets\Scripts\Level_3_Scripts\Andy\zzz.cs" />
+     <Compile Include="Assets\Scripts\Level_3_Scripts\JW\CamfollowOdyssey.cs" />
+     <Compile Include="Assets\Scripts\Level_3_Scripts\JW\JW_LevelDesign_bitImg.cs" />
+     <Compile Include="Assets\Scripts\Level_3_Scripts\JW\JW_ScrollbarDrag.cs" />
+     <Compile Include="Assets\Scripts\Level_3_Scripts\JW\JW_WinBar.cs" />
+     <Compile Include="Assets\Scripts\Level_3_Scripts\JW\JW_burstForce.cs" />
+     <Compile Include="Assets\Scripts\Level_3_Scripts\JW\JW_minigame_playercontroller.cs" />
+     <Compile Include="Assets\Scripts\Level_3_Scripts\JW\JW_screenFlash.cs" />
+     <Compile Include="Assets\Scripts\Level_3_Scripts\JW\JwGUIMenu.cs" />
+     <Compile Include="Assets\Scripts\Level_3_Scripts\JW\MinigameJW_mouse.cs" />
+     <Compile Include="Assets\Scripts\Level_3_Scripts\JW\Movement.cs" />
+     <Compile Include="Assets\Scripts\Level_3_Scripts\JW\MusicNotes.cs" />
+     <Compile Include="Assets\Scripts\Level_3_Scripts\JW\NextTutorial.cs" />
+     <Compile Include="Assets\Scripts\Level_3_Scripts\JW\ObjectManager.cs" />
+     <Compile Include="Assets\Scripts\Level_3_Scripts\JW\bloodstopTimer.cs" />
+     <Compile Include="Assets\Scripts\Level_3_Scripts\JW\ghostspawn.cs" />
+     <Compile Include="Assets\Scripts\Level_3_Scripts\JW\jw_lavaChange.cs" />
+     <Compile Include="Assets\Scripts\Level_3_Scripts\JW\mousemouse.cs" />
+     <Compile Include="Assets\Scripts\Level_3_Scripts\JW\playerGetBurn.cs" />
+     <Compile Include="Assets\Scripts\Level_3_Scripts\JW\staticLavaBurn.cs" />
+     <Compile Include="Assets\Scripts\MainMenu\MainMenu_CreditButton.cs" />
+     <Compile Include="Assets\Scripts\MainMenu\MainMenu_Option.cs" />
+     <Compile Include="Assets\Scripts\MainMenu\MainMenu_QuitButton.cs" />
+     <Compile Include="Assets\Scripts\MainMenu\MainMenu_StartButton.cs" />
+     <Compile Include="Assets\Scripts\MiniGame\ArmWrestle-minigame\ArmWrestle.cs" />
+     <Compile Include="Assets\Scripts\MiniGame\ArmWrestle-minigame\SirenGame.cs" />
+     <Compile Include="Assets\Scripts\MiniGame\Insect.cs" />
+     <Compile Include="Assets\Scripts\MiniGame\MiniGameController.cs" />
+     <Compile Include="Assets\Scripts\MiniGame\MovingBar.cs" />
+     <Compile Include="Assets\Scripts\MiniGame\ParticleRenderOrder.cs" />
+     <Compile Include="Assets\Scripts\MiniGame\Player.cs" />
+     <Compile Include="Assets\Scripts\MiniGame\RandomGenerator.cs" />
+     <Compile Include="Assets\Scripts\MiniGame\Runningman-minigame\CurrentMan_Controller.cs" />
+     <Compile Include="Assets\Scripts\MiniGame\Runningman-minigame\RunningMan_Controller.cs" />
+     <Compile Include="Assets\Scripts\MiniGame\Runningman-minigame\ScrollingBackground.cs" />
+     <Compile Include="Assets\Scripts\MiniGame\Runningman-minigame\ScrollingBackground1.cs" />
+     <Compile Include="Assets\Scripts\MiniGame\Runningman-minigame\Tree_Controller.cs" />
+     <Compile Include="Assets\Scripts\MiniGame\Sword.cs" />
+     <Compile Include="Assets\Scripts\MiniGame\TargetMovement.cs" />
+     <Compile Include="Assets\Scripts\MiniGame\TurnOff_Controller.cs" />
+     <Compile Include="Assets\Scripts\MiniGame\Tutorial.cs" />
+     <Compile Include="Assets\Scripts\MiniGame\TutorialScript.cs" />
+     <Compile Include="Assets\Scripts\MiniGame\TutorialTextScript1.cs" />
+     <Compile Include="Assets\Scripts\MiniGame\TutorialTextScript2.cs" />
+     <Compile Include="Assets\Scripts\Mouse\CustomMouse.cs" />
+     <Compile Include="Assets\Scripts\Object\ClickableObject.cs" />
+     <Compile Include="Assets\Scripts\Object\DescriptionBox.cs" />
+     <Compile Include="Assets\Scripts\Object\DialogueBox.cs" />
+     <Compile Include="Assets\Scripts\Object\Interact.cs" />
+     <Compile Include="Assets\Scripts\Object\ObjectInformation.cs" />
+     <Compile Include="Assets\Scripts\Object\ObjectMovement.cs" />
+     <Compile Include="Assets\Scripts\Object\Observe.cs" />
+     <Compile Include="Assets\Scripts\Object\OnCollision.cs" />
+     <Compile Include="Assets\Scripts\Object\PickUp.cs" />
+     <Compile Include="Assets\Scripts\Object\SaveObject.cs" />
+     <Compile Include="Assets\Scripts\OptionPage\OptionMenu_DutchSelection.cs" />
+     <Compile Include="Assets\Scripts\OptionPage\OptionMenu_ResetSelection.cs" />
+     <Compile Include="Assets\Scripts\OptionPage\OptionMenu_Selection.cs" />
+     <Compile Include="Assets\Scripts\OptionPage\Slider.cs" />
+     <Compile Include="Assets\Scripts\Others\CoinCounter.cs" />
+     <Compile Include="Assets\Scripts\Others\Coin_Controller.cs" />
+     <Compile Include="Assets\Scripts\Others\SaveData.cs" />
+     <Compile Include="Assets\Scripts\Others\SetCurrentLevel.cs" />
+     <Compile Include="Assets\Scripts\SkipSceneController.cs" />
+     <Compile Include="Assets\Scripts\SkipSceneController2.cs" />
+     <Compile Include="Assets\Scripts\Stage\CharacterDialogue.cs" />
+     <Compile Include="Assets\Scripts\Stage\CloseUpClosetButton.cs" />
+     <Compile Include="Assets\Scripts\Stage\DialogueStorage.cs" />
+     <Compile Include="Assets\Scripts\Stage\ExitBox.cs" />
+     <Compile Include="Assets\Scripts\Stage\Inventory.cs" />
+     <Compile Include="Assets\Scripts\Stage\MenuButtonGUI.cs" />
+     <Compile Include="Assets\Scripts\Stage\PauseScreen.cs" />
+     <Compile Include="Assets\Scripts\Stage\PlayerMovement.cs" />
+     <Compile Include="Assets\Scripts\Stage\StageProgression\Level_1\BeachProgress.cs" />
+     <Compile Include="Assets\Scripts\Stage\StageProgression\Level_1\CaveMorningCylopLevelProgress.cs" />
+     <Compile Include="Assets\Scripts\Stage\StageProgression\Level_1\CaveMorningLevelProgression.cs" />
+     <Compile Include="Assets\Scripts\Stage\StageProgression\Level_1\CaveNightLevelProgression.cs" />
+     <Compile Include="Assets\Scripts\Stage\StageProgression\Level_1\CliffLevelProgression.cs" />
+     <Compile Include="Assets\Scripts\Stage\StageProgression\Level_1\CloseUpClosetProgression.cs" />
+     <Compile Include="Assets\Scripts\Stage\StageProgression\Level_1\CloseUpTreeProgress.cs" />
+     <Compile Include="Assets\Scripts\Stage\StageProgression\Level_1\CyclopBedroomProgression.cs" />
+     <Compile Include="Assets\Scripts\Stage\StageProgression\Level_1\CyclopCloseUpProgression.cs" />
+     <Compile Include="Assets\Scripts\Stage\StageProgression\Level_1\ForestLevelProgression.cs" />
+     <Compile Include="Assets\Scripts\Stage\StageProgression\Level_1\InsideShipProgress.cs" />
+     <Compile Include="Assets\Scripts\Stage\StageProgression\Level_1\LevelProgress.cs" />
+     <Compile Include="Assets\Scripts\Stage\StageProgression\Level_1\OutsideCaveProgress.cs" />
+     <Compile Include="Assets\Scripts\Stage\StageProgression\Level_1\SheepPenCloseUpProgression.cs" />
+     <Compile Include="Assets\Scripts\Stage\StageProgression\Level_1\ShipDeckProgress.cs" />
+     <Compile Include="Assets\Scripts\Stage\StageProgression\Level_2\CastleFrontProgression.cs" />
+     <Compile Include="Assets\Scripts\Stage\StageProgression\Level_2\CastleFrontProgression2.cs" />
+     <Compile Include="Assets\Scripts\Stage\StageProgression\Level_2\CirceRoom.cs" />
+     <Compile Include="Assets\Scripts\Stage\StageProgression\Level_2\ClearingProgression.cs" />
+     <Compile Include="Assets\Scripts\Stage\StageProgression\Level_2\ClearingProgression2.cs" />
+     <Compile Include="Assets\Scripts\Stage\StageProgression\Level_2\ClearingProgression3.cs" />
+     <Compile Include="Assets\Scripts\Stage\StageProgression\Level_2\CliffLevelProgression2.cs" />
+     <Compile Include="Assets\Scripts\Stage\StageProgression\Level_2\CliffLevelProgression2Part2.cs" />
+     <Compile Include="Assets\Scripts\Stage\StageProgression\Level_2\InsideShipProgress2.cs" />
+     <Compile Include="Assets\Scripts\Stage\StageProgression\Level_2\LevelProgress2.cs" />
+     <Compile Include="Assets\Scripts\Stage\StageProgression\Level_2\MazeProgression.cs" />
+     <Compile Include="Assets\Scripts\Stage\StageProgression\Level_2\ShipDeckProgress2.cs" />
+     <Compile Include="Assets\Scripts\Stage\StageProgression\Level_2\ShoreProgression.cs" />
+     <Compile Include="Assets\Scripts\Stage\StageProgression\Level_2\ShoreProgression2.cs" />
+     <Compile Include="Assets\Scripts\Stage\StageProgression\Level_2\ShoreProgression3.cs" />
+     <Compile Include="Assets\Scripts\Stage\StageProgression\Level_3\GraveyardProgress.cs" />
+     <Compile Include="Assets\Scripts\Stage\StageProgression\Level_3\InsideShipProgress3.cs" />
+     <Compile Include="Assets\Scripts\Stage\StageProgression\Level_3\IslandSunShoreProgress.cs" />
+     <Compile Include="Assets\Scripts\Stage\StageProgression\Level_3\LevelProgress3.cs" />
+     <Compile Include="Assets\Scripts\Stage\StageProgression\Level_3\RiverProgression.cs" />
+     <Compile Include="Assets\Scripts\Stage\StageProgression\Level_3\ShipDeckProgress3.cs" />
+     <Compile Include="Assets\Scripts\Stage\StageProgression\Level_3\ShipDeckProgress3Part1.cs" />
+     <Compile Include="Assets\Scripts\Stage\StageProgression\Level_3\UnderworldProgression.cs" />
+     <Compile Include="Assets\Scripts\Stage\StageProgression\MainMenu.cs" />
+     <Compile Include="Assets\Scripts\Stage\Transition.cs" />
+     <Compile Include="Assets\Scripts\Video\Cinematic_Controller.cs" />
+     <Compile Include="Assets\Scripts\Video\cinematiclanguagecontroller.cs" />
+     <None Include="Assets\Graphic\Enviroment\Character\Cyclop\CyclopsInGame\Cyclops-Milking 300 x 223.txt" />
+     <None Include="Assets\Graphic\Enviroment\Character\Cyclop\CyclopsInGame\Cyclops-Asleep 880 x 282.txt" />
+     <None Include="Assets\Dialogue\CrewOnDeck.txt" />
+     <None Include="Assets\Dialogue\ProphetDialogue.txt" />
+     <None Include="Assets\Dialogue\CrewOnSacrificialArea.txt" />
+     <None Include="Assets\Dialogue\LeglessSoldierDialogue.txt" />
+     <None Include="Assets\Dialogue\ScrawnySoldierDialogue.txt" />
+     <None Include="Assets\Dialogue\ReaperDialogue.txt" />
+     <None Include="Assets\Material\FakeGlowScript.shader" />
+     <None Include="Assets\Dialogue\TwoLadiesDialogue.txt" />
+     <None Include="Assets\Material\shadowforsprite.shader" />
+     <None Include="Assets\Dialogue\ThreeLadiesDialogue.txt" />
+     <None Include="Assets\Graphic\Enviroment\Character\Cyclop\CyclopsInGame\Cyclops-Sober 572 x 525.txt" />
+     <None Include="Assets\Dialogue\GateDialogue.txt" />
+     <None Include="Assets\Dialogue\HeadlessSoldierDialogue.txt" />
+     <None Include="Assets\Graphic\Enviroment\Character\Cyclop\CyclopsInGame\Cyclops-Two-Thirds-Drunk 763 x 525.txt" />
+     <None Include="Assets\Graphic\Enviroment\Character\Cyclop\CyclopsInGame\Cyclops-One-Third-Drunk 572 x 525.txt" />
+     <None Include="Assets\Editor\Doxygen\Resources\BaseDoxyfile.txt" />
+     <None Include="Assets\Dialogue\ElpenorDialogue.txt" />
+     <None Include="Assets\Editor\Doxygen\ReadMe.txt" />
+     <None Include="Assets\Dialogue\MotherDialogue.txt" />
+     <None Include="Assets\Dialogue\ChainedPrisonerDialogue.txt" />
+     <None Include="Assets\Dialogue\ParanoidGhostDialogue.txt" />
+ <Reference Include="UnityEngine.UI">
+ <HintPath>C:/Program Files (x86)/Unity462/Editor/Data/UnityExtensions/Unity/GUISystem/4.6.2/UnityEngine.UI.dll</HintPath>
+ </Reference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+	   Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  
+</Project>
